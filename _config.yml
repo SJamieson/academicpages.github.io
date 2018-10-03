@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stewart J"
+  name             : "Stewart Jamieson"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "TODO"
   location         : "Boston, MA"
   employer         : "WHOI/MIT"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
