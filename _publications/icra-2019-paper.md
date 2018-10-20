@@ -1,6 +1,6 @@
 ---
 title: "Enabling Co-Robotic Scientific Exploration of Unknown Environments over a Low Bandwidth Communication Channel"
-collection: pending-publications
+collection: pending
 permalink: /publication/2019-systems-paper
 excerpt: 'This paper proposes a novel system for co-robotic exploration to aid in the discovery and mapping of scientific phenomena in extreme environments such as the deep sea, where autonomous robots operate under strong communication bottlenecks.'
 date: 2018-09-15
