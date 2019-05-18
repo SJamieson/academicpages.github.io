@@ -3,14 +3,129 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sjamieson.github.io/authors/admin/</loc>
-    <lastmod>2019-05-18T16:19:57-04:00</lastmod>
+    <loc>https://sjamieson.github.io/authors/</loc>
+    <lastmod>2019-05-24T11:15:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sjamieson.github.io/authors/</loc>
-    <lastmod>2019-05-18T16:19:57-04:00</lastmod>
+    <loc>https://sjamieson.github.io/authors/stewart-jamieson/</loc>
+    <lastmod>2019-05-24T11:15:00-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/</loc>
+    <lastmod>2019-05-24T11:15:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/talk/2019-icra-debate/</loc>
+    <lastmod>2019-05-24T11:15:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/project/co-robotic-exploration/</loc>
+    <lastmod>2019-05-18T17:19:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/project/</loc>
+    <lastmod>2019-05-18T17:19:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/juan-jose-garau-luis/</loc>
+    <lastmod>2019-04-10T10:30:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/talk/2019-bayesian-adaptive-sampling/</loc>
+    <lastmod>2019-04-10T10:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/rajat-talak/</loc>
+    <lastmod>2019-04-10T10:30:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/sarah-keren/</loc>
+    <lastmod>2019-04-10T10:30:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/publication_types/1/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/brian-claus/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/genevieve-flaspohler/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/levi-cai/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/nathan-mcguire/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/stefano-suman/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/publication/girdhar-2019-icra/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/yogesh-girdhar/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/publication_types/7/</loc>
+    <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/publication/jamieson-2018/</loc>
+    <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sjamieson.github.io/authors/admin/</loc>
+    <lastmod>2019-05-18T17:02:30-04:00</lastmod>
   </url>
   
   <url>
@@ -24,11 +139,6 @@
   </url>
   
   <url>
-    <loc>https://sjamieson.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sjamieson.github.io/publication/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
@@ -36,11 +146,6 @@
   <url>
     <loc>https://sjamieson.github.io/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sjamieson.github.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -7,9 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
+    <lastBuildDate>Fri, 24 May 2019 11:15:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sjamieson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stewart Jamieson</title>
+      <link>https://sjamieson.github.io/authors/stewart-jamieson/</link>
+      <pubDate>Fri, 24 May 2019 11:15:00 -0400</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/stewart-jamieson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Jose Garau Luis</title>
+      <link>https://sjamieson.github.io/authors/juan-jose-garau-luis/</link>
+      <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/juan-jose-garau-luis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajat Talak</title>
+      <link>https://sjamieson.github.io/authors/rajat-talak/</link>
+      <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/rajat-talak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Keren</title>
+      <link>https://sjamieson.github.io/authors/sarah-keren/</link>
+      <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/sarah-keren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Claus</title>
+      <link>https://sjamieson.github.io/authors/brian-claus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/brian-claus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genevieve Flaspohler</title>
+      <link>https://sjamieson.github.io/authors/genevieve-flaspohler/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/genevieve-flaspohler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Levi Cai</title>
+      <link>https://sjamieson.github.io/authors/levi-cai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/levi-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathan McGuire</title>
+      <link>https://sjamieson.github.io/authors/nathan-mcguire/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/nathan-mcguire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefano Suman</title>
+      <link>https://sjamieson.github.io/authors/stefano-suman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/stefano-suman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yogesh Girdhar</title>
+      <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/authors/yogesh-girdhar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -17,7 +108,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sjamieson.github.io/authors/admin/</guid>
-      <description>Stewart Jamieson is a graduate student in the MIT-WHOI Joint Program in Applied Ocean Science and Engineering. I am pursuing the development of a multi-robot system that can autonomously explore and build semantics maps of environments, such as the ocean, where communication is limited. I am co-supervised by Dr. Yogesh Girdhar and Dr. Jonathan How.</description>
+      <description>I am a graduate student in the MIT-WHOI Joint Program studying Applied Ocean Science and Engineering. I&amp;rsquo;m pursuing the development of a multi-robot system that can autonomously explore and build semantics maps of environments, such as the ocean, where communication is limited. My co-supervisors are Dr. Yogesh Girdhar (WHOI) and Dr. Jonathan How (MIT).</description>
     </item>
     
   </channel>

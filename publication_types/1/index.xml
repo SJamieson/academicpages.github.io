@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Stewart Jamieson</title>
+    <link>https://sjamieson.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Stewart Jamieson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sjamieson.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
+      <link>https://sjamieson.github.io/publication/girdhar-2019-icra/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/publication/girdhar-2019-icra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,5 +11,23 @@
 	<atom:link href="https://sjamieson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
+      <link>https://sjamieson.github.io/publication/girdhar-2019-icra/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/publication/girdhar-2019-icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Robust Vision in Realtime Autonomous Driving</title>
+      <link>https://sjamieson.github.io/publication/jamieson-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sjamieson.github.io/publication/jamieson-2018/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
