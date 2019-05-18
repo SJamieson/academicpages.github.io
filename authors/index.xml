@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
-    <lastBuildDate>Mon, 06 May 2019 17:54:11 +0100</lastBuildDate>
     
 	<atom:link href="https://sjamieson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +14,10 @@
     <item>
       <title></title>
       <link>https://sjamieson.github.io/authors/admin/</link>
-      <pubDate>Mon, 06 May 2019 17:54:11 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sjamieson.github.io/authors/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Stewart Jamieson is a graduate student in the MIT-WHOI Joint Program in Applied Ocean Science and Engineering. I am pursuing the development of a multi-robot system that can autonomously explore and build semantics maps of environments, such as the ocean, where communication is limited. I am co-supervised by Dr. Yogesh Girdhar.</description>
     </item>
     
   </channel>
