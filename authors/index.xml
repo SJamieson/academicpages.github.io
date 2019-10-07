@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Stewart Jamieson</title>
+    <title>Authors | Stewart Jamieson</title>
     <link>https://sjamieson.github.io/authors/</link>
-    <description>Recent content in Authors on Stewart Jamieson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
-    <lastBuildDate>Fri, 24 May 2019 11:15:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://sjamieson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sjamieson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Fri, 24 May 2019 11:15:00 -0400</lastBuildDate>
+    <image>
+      <url>https://sjamieson.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://sjamieson.github.io/authors/</link>
+    </image>
     
     <item>
       <title>Stewart Jamieson</title>
       <link>https://sjamieson.github.io/authors/stewart-jamieson/</link>
       <pubDate>Fri, 24 May 2019 11:15:00 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/stewart-jamieson/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Juan Jose Garau Luis</title>
       <link>https://sjamieson.github.io/authors/juan-jose-garau-luis/</link>
       <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/juan-jose-garau-luis/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Rajat Talak</title>
       <link>https://sjamieson.github.io/authors/rajat-talak/</link>
       <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/rajat-talak/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Sarah Keren</title>
       <link>https://sjamieson.github.io/authors/sarah-keren/</link>
       <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/sarah-keren/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Brian Claus</title>
       <link>https://sjamieson.github.io/authors/brian-claus/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/brian-claus/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>Genevieve Flaspohler</title>
       <link>https://sjamieson.github.io/authors/genevieve-flaspohler/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/genevieve-flaspohler/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>Levi Cai</title>
       <link>https://sjamieson.github.io/authors/levi-cai/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/levi-cai/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>Nathan McGuire</title>
       <link>https://sjamieson.github.io/authors/nathan-mcguire/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/nathan-mcguire/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>Stefano Suman</title>
       <link>https://sjamieson.github.io/authors/stefano-suman/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/stefano-suman/</guid>
       <description></description>
     </item>
@@ -97,7 +88,6 @@
       <title>Yogesh Girdhar</title>
       <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/yogesh-girdhar/</guid>
       <description></description>
     </item>
@@ -106,9 +96,9 @@
       <title></title>
       <link>https://sjamieson.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sjamieson.github.io/authors/admin/</guid>
-      <description>I am a graduate student in the MIT-WHOI Joint Program studying Applied Ocean Science and Engineering. I&amp;rsquo;m pursuing the development of a multi-robot system that can autonomously explore and build semantics maps of environments, such as the ocean, where communication is limited. My co-supervisors are Dr. Yogesh Girdhar (WHOI) and Dr. Jonathan How (MIT).</description>
+      <description>&lt;p&gt;I am a graduate student in the &lt;a href=&#34;http://mit.whoi.edu/&#34;&gt;MIT-WHOI Joint Program&lt;/a&gt; studying Applied Ocean Science and Engineering. I&amp;rsquo;m pursuing the development of a multi-robot system that can autonomously explore and build semantics maps of environments, such as the ocean, where communication is limited. My co-supervisors are &lt;a href=&#34;https://www.whoi.edu/profile/ygirdhar&#34;&gt;Dr. Yogesh Girdhar&lt;/a&gt; (&lt;a href=&#34;https://www.whoi.edu&#34;&gt;WHOI&lt;/a&gt;) and &lt;a href=&#34;http://www.mit.edu/people/jhow/&#34;&gt;Dr. Jonathan How&lt;/a&gt; (&lt;a href=&#34;https://www.mit.edu&#34;&gt;MIT&lt;/a&gt;).&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Stewart Jamieson</title>
+    <title>Projects | Stewart Jamieson</title>
     <link>https://sjamieson.github.io/project/</link>
-    <description>Recent content in Projects on Stewart Jamieson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
-    <lastBuildDate>Sat, 18 May 2019 17:19:19 -0400</lastBuildDate>
-    
-	<atom:link href="https://sjamieson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sjamieson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Sat, 18 May 2019 17:19:19 -0400</lastBuildDate>
+    <image>
+      <url>https://sjamieson.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://sjamieson.github.io/project/</link>
+    </image>
     
     <item>
       <title>Co-Robotic Scientific Exploration</title>
       <link>https://sjamieson.github.io/project/co-robotic-exploration/</link>
       <pubDate>Sat, 18 May 2019 17:19:19 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/project/co-robotic-exploration/</guid>
-      <description>Employing teams of robots and scientists to work together to better understand Earth&amp;rsquo;s oceans.</description>
+      <description></description>
     </item>
     
   </channel>

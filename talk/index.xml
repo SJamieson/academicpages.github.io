@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Stewart Jamieson</title>
+    <title>Recent &amp; Upcoming Talks | Stewart Jamieson</title>
     <link>https://sjamieson.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Stewart Jamieson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
-    
-	<atom:link href="https://sjamieson.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sjamieson.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright>
+    <image>
+      <url>https://sjamieson.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://sjamieson.github.io/talk/</link>
+    </image>
     
     <item>
       <title>The Importance of Deep Learning in Robotics Research</title>
       <link>https://sjamieson.github.io/talk/2019-icra-debate/</link>
       <pubDate>Fri, 24 May 2019 11:15:00 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/talk/2019-icra-debate/</guid>
-      <description>Deep learning will play an invaluable role in advancing nearly every field of robotics research.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Multi-Robot Adaptive Sampling</title>
       <link>https://sjamieson.github.io/talk/2019-bayesian-adaptive-sampling/</link>
       <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/talk/2019-bayesian-adaptive-sampling/</guid>
       <description></description>
     </item>

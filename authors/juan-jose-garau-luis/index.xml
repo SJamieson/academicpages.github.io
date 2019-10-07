@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Juan Jose Garau Luis on Stewart Jamieson</title>
+    <title>Juan Jose Garau Luis | Stewart Jamieson</title>
     <link>https://sjamieson.github.io/authors/juan-jose-garau-luis/</link>
-    <description>Recent content in Juan Jose Garau Luis on Stewart Jamieson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
-    <lastBuildDate>Wed, 10 Apr 2019 10:30:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://sjamieson.github.io/authors/juan-jose-garau-luis/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sjamieson.github.io/authors/juan-jose-garau-luis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Jose Garau Luis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Wed, 10 Apr 2019 10:30:00 -0400</lastBuildDate>
+    <image>
+      <url>https://sjamieson.github.io/img/icon-192.png</url>
+      <title>Juan Jose Garau Luis</title>
+      <link>https://sjamieson.github.io/authors/juan-jose-garau-luis/</link>
+    </image>
     
     <item>
       <title>Multi-Robot Adaptive Sampling</title>
       <link>https://sjamieson.github.io/talk/2019-bayesian-adaptive-sampling/</link>
       <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
-      
       <guid>https://sjamieson.github.io/talk/2019-bayesian-adaptive-sampling/</guid>
       <description></description>
     </item>

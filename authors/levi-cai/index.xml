@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Levi Cai on Stewart Jamieson</title>
+    <title>Levi Cai | Stewart Jamieson</title>
     <link>https://sjamieson.github.io/authors/levi-cai/</link>
-    <description>Recent content in Levi Cai on Stewart Jamieson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Stewart Jamieson</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://sjamieson.github.io/authors/levi-cai/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sjamieson.github.io/authors/levi-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Levi Cai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://sjamieson.github.io/img/icon-192.png</url>
+      <title>Levi Cai</title>
+      <link>https://sjamieson.github.io/authors/levi-cai/</link>
+    </image>
     
     <item>
       <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
       <link>https://sjamieson.github.io/publication/girdhar-2019-icra/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://sjamieson.github.io/publication/girdhar-2019-icra/</guid>
       <description></description>
     </item>
