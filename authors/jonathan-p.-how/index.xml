@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yogesh Girdhar | Stewart Jamieson</title>
-    <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
-      <atom:link href="https://sjamieson.github.io/authors/yogesh-girdhar/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yogesh Girdhar</description>
+    <title>Jonathan P. How | Stewart Jamieson</title>
+    <link>https://sjamieson.github.io/authors/jonathan-p.-how/</link>
+      <atom:link href="https://sjamieson.github.io/authors/jonathan-p.-how/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan P. How</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjamieson.github.io/img/icon-192.png</url>
-      <title>Yogesh Girdhar</title>
-      <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
+      <title>Jonathan P. How</title>
+      <link>https://sjamieson.github.io/authors/jonathan-p.-how/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sjamieson.github.io/publication/jamieson-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://sjamieson.github.io/publication/jamieson-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
-      <link>https://sjamieson.github.io/publication/girdhar-2019-icra/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      <guid>https://sjamieson.github.io/publication/girdhar-2019-icra/</guid>
       <description></description>
     </item>
     

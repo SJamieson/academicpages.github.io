@@ -5,7 +5,7 @@
     <link>https://sjamieson.github.io/authors/</link>
       <atom:link href="https://sjamieson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Fri, 24 May 2019 11:15:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjamieson.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Jonathan P. How</title>
+      <link>https://sjamieson.github.io/authors/jonathan-p.-how/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/authors/jonathan-p.-how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stewart Jamieson</title>
       <link>https://sjamieson.github.io/authors/stewart-jamieson/</link>
-      <pubDate>Fri, 24 May 2019 11:15:00 -0400</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://sjamieson.github.io/authors/stewart-jamieson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yogesh Girdhar</title>
+      <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/authors/yogesh-girdhar/</guid>
       <description></description>
     </item>
     
@@ -81,14 +97,6 @@
       <link>https://sjamieson.github.io/authors/stefano-suman/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       <guid>https://sjamieson.github.io/authors/stefano-suman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yogesh Girdhar</title>
-      <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      <guid>https://sjamieson.github.io/authors/yogesh-girdhar/</guid>
       <description></description>
     </item>
     
