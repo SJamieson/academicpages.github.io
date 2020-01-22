@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yogesh Girdhar | Stewart Jamieson</title>
-    <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
-      <atom:link href="https://sjamieson.github.io/authors/yogesh-girdhar/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yogesh Girdhar</description>
+    <title>⛔ No DOI found | Stewart Jamieson</title>
+    <link>https://sjamieson.github.io/tags/no-doi-found/</link>
+      <atom:link href="https://sjamieson.github.io/tags/no-doi-found/index.xml" rel="self" type="application/rss+xml" />
+    <description>⛔ No DOI found</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Stewart Jamieson</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjamieson.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Yogesh Girdhar</title>
-      <link>https://sjamieson.github.io/authors/yogesh-girdhar/</link>
+      <title>⛔ No DOI found</title>
+      <link>https://sjamieson.github.io/tags/no-doi-found/</link>
     </image>
     
     <item>
@@ -21,10 +21,10 @@
     </item>
     
     <item>
-      <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
-      <link>https://sjamieson.github.io/publication/girdhar-2019-icra/</link>
+      <title>The Pervasiveness of Deep Learning in Robotics Research Does Not Impede Scientific Insights into Robotics Problems</title>
+      <link>https://sjamieson.github.io/publication/jamieson-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://sjamieson.github.io/publication/girdhar-2019-icra/</guid>
+      <guid>https://sjamieson.github.io/publication/jamieson-2019/</guid>
       <description></description>
     </item>
     

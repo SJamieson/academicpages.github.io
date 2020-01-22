@@ -5,9 +5,9 @@
     <link>https://sjamieson.github.io/authors/stewart-jamieson/</link>
       <atom:link href="https://sjamieson.github.io/authors/stewart-jamieson/index.xml" rel="self" type="application/rss+xml" />
     <description>Stewart Jamieson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Stewart Jamieson</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Stewart Jamieson</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjamieson.github.io/img/icon-192.png</url>
+      <url>https://sjamieson.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Stewart Jamieson</title>
       <link>https://sjamieson.github.io/authors/stewart-jamieson/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments</title>
       <link>https://sjamieson.github.io/publication/jamieson-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://sjamieson.github.io/publication/jamieson-2020/</guid>
       <description></description>
     </item>
@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
+      <link>https://sjamieson.github.io/publication/girdhar-2019-icra/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/publication/girdhar-2019-icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Pervasiveness of Deep Learning in Robotics Research Does Not Impede Scientific Insights into Robotics Problems</title>
+      <link>https://sjamieson.github.io/publication/jamieson-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/publication/jamieson-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Robot Adaptive Sampling</title>
       <link>https://sjamieson.github.io/talk/2019-bayesian-adaptive-sampling/</link>
       <pubDate>Wed, 10 Apr 2019 10:30:00 -0400</pubDate>
@@ -37,25 +53,9 @@
     </item>
     
     <item>
-      <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
-      <link>https://sjamieson.github.io/publication/girdhar-2019-icra/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      <guid>https://sjamieson.github.io/publication/girdhar-2019-icra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Pervasiveness of Deep Learning in Robotics Research Does Not Impede Scientific Insights into Robotics Problems</title>
-      <link>https://sjamieson.github.io/publication/jamieson-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://sjamieson.github.io/publication/jamieson-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Learning for Robust Vision in Realtime Autonomous Driving</title>
       <link>https://sjamieson.github.io/publication/jamieson-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://sjamieson.github.io/publication/jamieson-2018/</guid>
       <description></description>
     </item>
