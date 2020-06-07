@@ -5,12 +5,20 @@
     <link>https://sjamieson.github.io/authors/jonathan-p.-how/</link>
       <atom:link href="https://sjamieson.github.io/authors/jonathan-p.-how/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan P. How</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Stewart Jamieson</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Stewart Jamieson</copyright><lastBuildDate>Mon, 01 Jun 2020 09:45:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jonathan P. How</title>
       <link>https://sjamieson.github.io/authors/jonathan-p.-how/</link>
     </image>
+    
+    <item>
+      <title>ICRA 2020 Presentation: Active Reward Learning for Co-Robotic Vision Based Exploration</title>
+      <link>https://sjamieson.github.io/talk/2020-icra-presentation/</link>
+      <pubDate>Mon, 01 Jun 2020 09:45:00 +0200</pubDate>
+      <guid>https://sjamieson.github.io/talk/2020-icra-presentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments</title>
