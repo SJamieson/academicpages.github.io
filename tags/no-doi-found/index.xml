@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>⛔ No DOI found | Stewart Jamieson</title>
+    <title>&#34;⛔ No DOI found&#34; | Stewart Jamieson</title>
     <link>https://sjamieson.github.io/tags/no-doi-found/</link>
       <atom:link href="https://sjamieson.github.io/tags/no-doi-found/index.xml" rel="self" type="application/rss+xml" />
-    <description>⛔ No DOI found</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Stewart Jamieson</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <description>&#34;⛔ No DOI found&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Stewart Jamieson</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>⛔ No DOI found</title>
+      <title>&#34;⛔ No DOI found&#34;</title>
       <link>https://sjamieson.github.io/tags/no-doi-found/</link>
     </image>
     
     <item>
-      <title>Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments</title>
-      <link>https://sjamieson.github.io/publication/jamieson-2020/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://sjamieson.github.io/publication/jamieson-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Pervasiveness of Deep Learning in Robotics Research Does Not Impede Scientific Insights into Robotics Problems</title>
-      <link>https://sjamieson.github.io/publication/jamieson-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://sjamieson.github.io/publication/jamieson-2019/</guid>
+      <title>Multi-Robot Distributed Semantic Mapping in Unfamiliar Environments through Online Matching of Learned Representations</title>
+      <link>https://sjamieson.github.io/publication/jamieson-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/publication/jamieson-2021/</guid>
       <description></description>
     </item>
     

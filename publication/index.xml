@@ -5,12 +5,28 @@
     <link>https://sjamieson.github.io/publication/</link>
       <atom:link href="https://sjamieson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Stewart Jamieson</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Stewart Jamieson</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://sjamieson.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Communicating Efficiently to Enable Human-Multi-Robot Collaboration in Space Exploration</title>
+      <link>https://sjamieson.github.io/publication/jamieson-2021-a/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/publication/jamieson-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Robot Distributed Semantic Mapping in Unfamiliar Environments through Online Matching of Learned Representations</title>
+      <link>https://sjamieson.github.io/publication/jamieson-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/publication/jamieson-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments</title>
